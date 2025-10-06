@@ -19,6 +19,5 @@ Hello! I’m Qarib Iqbal, a passionate full-stack developer with a focus on crea
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Qarib Iqbal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
